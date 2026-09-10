@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "NeuroLap",
+    "slug": "neurolap",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "backgroundColor": "#0B1220"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.neurolap.app"
+    },
+    "android": {
+      "package": "com.neurolap.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0B1220"
+      }
+    },
+    "plugins": []
+  }
+}
